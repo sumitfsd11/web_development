@@ -1,3 +1,4 @@
 HTML stands for HyperText Markup Language.
 It is used for creating structure of webpage.
+Contains root element and tags.
 
